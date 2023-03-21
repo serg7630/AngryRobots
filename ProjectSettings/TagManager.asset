@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - ProjectileGun
+  - bonus_up
+  - Ground
+  - Gun
+  - enemyHelic
+  - enemyBomb
+  - heroExplosive
+  - startPosition
+  - lastPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - EnemyGunHelicopter
+  - Ground
+  - ProjectileHero
+  - ProjectileGunEnemy
+  - projectileGunHero
+  - Bonus_up
+  - GunHero
+  - enemyBomb
+  - BombHero
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
